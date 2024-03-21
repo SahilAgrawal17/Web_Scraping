@@ -6,9 +6,10 @@ Binary should be "chromedriver" and according to your device, copy the link acco
 A ZIP file will be downloaded. Extract the file in the folder where you want to save the python code file.
 Copy the "chromedriver.exe" on the save level to that of python code file.
 
-Open the **combined.py** and open the terminal.
-Download Selenium package using "**pip install selenium**"
+Open the complete folder in VS Code otherwise chromedriver won't be located/accessed by code.
+Open the terminal and download Selenium package using "**pip install selenium**"
 
+Open the **combined.py** file.
 Copy the Codeforces/ Leetcode problem link and run the code.
 Paste the link as input.
 
